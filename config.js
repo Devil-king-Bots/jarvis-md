@@ -26,7 +26,7 @@ ALIVE  BOT
 
 Wa.me/923014283429
 
-Creat by DEVIL-KING-BOT: &platform_\n_RUNTIME : &update your alive message_",
+Creat by DEVIL-KING-BOT",
   IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
   SESSION_ID: process.env.SESSION_ID || 'ZnNneU5_J_A_R_V_I_S_ZcTU=',
   LANG: process.env.LANG || 'EN',
